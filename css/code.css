@@ -1,0 +1,121 @@
+body {
+    font-family: froboto,"Noto Sans Myanmar UI",arial,sans-serif;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.container{
+    float: inside;
+    border: 1px solid;
+    padding: 0 48px;
+    border-radius: 7px;
+    border-color: #DBDBDB;
+    margin: 9px auto;
+    width: 750px;
+    height: 500px;
+}
+form{
+    border-color: #DBDBDB;
+}
+#sign{
+    text-decoration: none;
+}
+.article{
+    margin-top: 17px;
+    margin-right: 4px;
+    margin-left: -41px;
+}
+.section{
+    margin-top: 31px;
+    margin-bottom: 45px;
+    margin-right: 102px;
+    margin-left: 29px;
+    float: left;
+
+}
+.gmail-com{
+    border: 1.25px solid #7C7B83;
+    border-radius: 2px;
+    padding-top: 5px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-left: 6px;
+    margin-right: 12%;
+}
+#user{
+    border: hidden;
+}
+#ftx{
+    font-size: small;
+    padding-left: 28%;
+    padding-top: 1px;
+    padding-right: 5px;
+
+}
+button{
+    float: right;
+    border-style: none;
+    background-color: #ffffff;
+    color: #868072;
+}
+.inp{
+    padding-top: 5px;
+    padding-right: 13px;
+    padding-bottom: 4px;
+    padding-left: 6px;
+}
+.ret{
+    margin-top: 1px;
+    margin-right: 0%;
+    margin-bottom: 4%;
+    margin-left: 2%;
+    color: #868072;
+}
+.next{
+    float: right;
+    margin-top: -11%;
+    margin-right: 12%;
+    margin-bottom: 10%;
+    margin-left: 11%;
+    padding-top: 8px;
+    padding-right: 24px;
+    padding-bottom: 8px;
+    padding-left: 23px;
+    color: #fff;
+    background-color: #478DFF;
+    border-radius: 6px;
+
+}
+#sp{
+    width: 17px;
+    height: 17px;
+}
+.rooter1{
+    padding-top: 7%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%
+}
+.fo{
+    width: 846px;
+    height: 61px;
+    margin: auto;
+}
+#language {
+
+    margin-right: -48%;
+    margin-bottom: 1%;
+    margin-left: -506px;
+}
+.dev{
+    margin-right: 52%;
+    margin-bottom: -3%;
+    margin-left: 1%;
+}
+.aside{
+    height: 354px;
+    text-align: center;
+    padding-top: 14%;
+    font-size: 14px;
+}
+
